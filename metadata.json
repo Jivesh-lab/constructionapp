@@ -1,0 +1,9 @@
+{
+  "name": "SiteMaster - Construction Field Manager",
+  "description": "A mobile-first, offline-capable construction management suite for tracking projects, daily progress (DPR), attendance, materials, and invoicing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
